@@ -1,4 +1,4 @@
-archivo = open("./archivos/Videos.txt","a",encoding='utf8')
+archivo = open("./archivos/videos.txt","a",encoding='utf8')
 
 idVideos = int(input("numero del video"))
 nombre = input("nombre del video")
