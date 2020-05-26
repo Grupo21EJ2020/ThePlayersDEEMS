@@ -1,9 +1,5 @@
 archivo = open("./archivos/videos.txt","a",encoding='utf8')
 
-idVideos = int(input("numero del video"))
-nombre = input("nombre del video")
-url = input("enlace del video")
-fechaPublicacion = input("dia/mes/año")
 
 
 archivo.write(1 + "|" + Curso Python para Principiantes + https://www.youtube.com/watch?v=chPhlsHoEPo + 22/01/2019)
