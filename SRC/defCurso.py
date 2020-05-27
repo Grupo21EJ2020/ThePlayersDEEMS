@@ -27,3 +27,6 @@ class Curso():
             self.__idempleado = linea[2]
             if self.__idcurso != self.__idcurso:
                 Lista += line
+                
+     def 
+    
