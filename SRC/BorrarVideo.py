@@ -5,3 +5,5 @@ def borrar(self):
             linea = line.split("\n")
             self.__idVideo = linea[0]
                 Lista + = line
+
+ archivo.close()               
