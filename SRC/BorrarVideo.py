@@ -1,5 +1,5 @@
 def borrar(self):
-        f = open("./archivos/video.txt")
+        f = open("./archivos/videos.txt")
         Lista = []
         for line in f:
             linea = line.split("\n")
