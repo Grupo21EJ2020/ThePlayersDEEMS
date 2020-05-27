@@ -45,5 +45,5 @@ class temas:
             if cont == 0:
                 break
         archivo1.close()
-        T = TEMAS(idtema,nombre)
+        T = temas(idtema,nombre)
         T.AgregarTema()
