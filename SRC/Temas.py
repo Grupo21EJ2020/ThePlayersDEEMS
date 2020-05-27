@@ -1,4 +1,4 @@
-class TEMAS:
+class temas:
     def __init__ (self,idtema,nombre):
         self.__idtema, self.__nombre = idtema, nombre    
    
